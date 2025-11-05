@@ -1,3 +1,7 @@
 theme: minima
 title: Wang Zixu
 description: Personal website hosted on GitHub Pages
+
+# Custom CSS override
+include:
+  - assets/css/style.css

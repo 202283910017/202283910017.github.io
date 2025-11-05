@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome
+css: /assets/css/style.css
 ---
 
 # 👋 Welcome to My Homepage

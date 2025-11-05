@@ -1,0 +1,56 @@
+/* === Custom visual enhancement for Wang Zixu's site === */
+
+/* Background: gradient + smooth scroll */
+body {
+  background: linear-gradient(120deg, #f0f4ff, #dbeafe, #eef2ff);
+  background-attachment: fixed;
+  color: #222;
+  scroll-behavior: smooth;
+  font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+}
+
+/* Section headers fade-in animation */
+h1, h2 {
+  color: #1e3a8a;
+  animation: fadeIn 1.2s ease-in-out;
+  text-align: center;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(15px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Content box effect */
+main, article {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 16px;
+  padding: 40px;
+  margin: 40px auto;
+  max-width: 850px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}
+
+/* Links hover animation */
+a {
+  color: #2563eb;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+a:hover {
+  color: #1d4ed8;
+  text-decoration: underline;
+}
+
+/* Footer customization */
+footer {
+  background: #1e3a8a;
+  color: #fff;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 0.9em;
+  margin-top: 60px;
+}
