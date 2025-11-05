@@ -15,7 +15,7 @@ I am passionate about software engineering and exploring how intelligent systems
 
 ## 🎓 Education
 
-- **Bachelor of Engineering**, Artificial Intelligence  
+- **Bachelor of Science**, Artificial Intelligence  
   *Nanjing University of Information Science and Technology*  
   2022 – Present  
 
@@ -29,7 +29,7 @@ Focus areas:
 ## 💻 Skills & Interests
 
 **Programming Languages:**  
-Python, HTML, CSS, JavaScript, C++
+Python, HTML, CSS, JavaScript
 
 **Technologies & Tools:**  
 Git, Docker, Jekyll, Linux, VS Code
